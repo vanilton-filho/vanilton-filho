@@ -7,7 +7,9 @@
 <h3 align="center">learn, learn and keep learning</h3>
 
 <a href="https://linkedin.com/in/vanilton-filho">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"
+      width="40"
+      height="40"alt="linkedin" />
 </a>
 
 
