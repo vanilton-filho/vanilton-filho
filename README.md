@@ -17,6 +17,32 @@
 
 <br/>
 
+<a href="https://www.python.org/">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
+      alt="html"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  <a href="https://www.jetbrains.com/pycharm/">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg"
+      alt="html"
+      width="40"
+      height="40"
+    />
+  </a>
+
+<a href="https://www.mongodb.com/">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"
+      alt="html"
+      width="40"
+      height="40"
+    />
+  </a>
  <a href="https://spring.io/">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"
@@ -58,8 +84,18 @@
       height="40"
     />
   </a>
-
+  
+<a href="https://www.mysql.com/">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"
+      alt="html"
+      width="40"
+      height="40"
+    />
+  </a>
 <br/>
+
+
 
 ![vanilton-filho's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanilton-filho&show_icons=true)
 &nbsp;&nbsp;
